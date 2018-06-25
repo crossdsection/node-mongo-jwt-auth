@@ -15,7 +15,8 @@ Or you can also run ```nodemon``` to run the project.
 
 Either through cloning with git or by using npm (the recommended way):
 
-npm install -g nodemon
+```npm install -g nodemon```
+
 And nodemon will be installed globally to your system path.
 
 4. Make changes to the app, and see the changes in the browser
